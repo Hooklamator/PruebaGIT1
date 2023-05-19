@@ -9,17 +9,6 @@ package pruebagit;
  *
  * @author Jaime Flores
  */
-public class PruebaGIT {
-
-	/**
-	 * @param args the command line arguments
-	 */
-	public static void main(String[] args) {
-		
-		//Prueba
-		
-		System.out.println("Hello mundo");
-		
-	}
+public class Clase1 {
 	
 }
